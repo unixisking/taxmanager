@@ -1,0 +1,68 @@
+<div class="tax-banner hide-mobile">
+  <span class="banner-transparent"></span>
+  <div class="tax-banner-slider">
+	<div class="layer" style="background-image: url('images/fiduciaire_new.jpg');"><img class="loading" data-src="images/fiduciaire_new.jpg" alt=""></div>
+	<div class="layer" style="background-image: url('images/lausanne_new.jpg');"><img class="loading" data-src="images/lausanne_new.jpg" alt=""></div>
+	<div class="layer" style="background-image: url('images/comptabilite_new.jpg');"><img class="loading" data-src="images/comptabilite_new.jpg" alt=""></div>
+	<div class="layer" style="background-image: url('images/tva_new.jpg');"><img src="images/tva_new.jpg" alt=""></div>
+  </div>
+  <div class="tax-banner-caption">
+	<div class="tax-table">
+	  <div class="tax-table-cell">
+		<div class="container">
+		  <div class="row">
+			<div class="col-md-12">
+			  <div class="banner-text">
+				<h1><font color="black"><font size="6">Fiduciaire à Lausanne</font></font></h1>
+				<p><font color="black">Tax Manager s’engage à vous <br>simplifier la vie</font></p>
+				<a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.png" alt=""><font color="black"> Rendez-vous</font></a>
+				<!-- <a href="#">Our Prices</a> -->
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+<script type="text/javascript">
+	//***************************
+    // BannerOne Functions
+    //***************************
+    jQuery(".tax-banner-slider").slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 3000,
+      infinite: true,
+      dots: false,
+      arrows: false,
+      // prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
+      // nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
+      fade: true,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            infinite: true,
+          },
+        },
+        {
+          breakpoint: 800,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+          },
+        },
+        {
+          breakpoint: 400,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+          },
+        },
+      ],
+    });
+</script>

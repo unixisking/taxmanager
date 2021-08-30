@@ -1,0 +1,156 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 990px) {
+	.newsletter-form { width: 90%; }
+	.tax-banner-slider .layer { height: 400px; background-size: cover; }
+	.banner-text { width: 100%; }
+	.banner-text p { font-size: 16px; line-height: 24px;}
+	.ec-search-popup form { width: 60%; }
+	.navbar-toggler { border: 1px solid #000; }
+	.navbar { padding: 10px 0px 20px; }
+	.navbar-collapse { position: absolute; right: 0px; top: 100%; z-index: 999; width: 730px; background: #fff; box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.navbar-nav > li:first-child { margin-left: 0px; }
+	.navbar-nav > li { margin: 0px; padding: 0px 15px !important; }
+	.nav-mega-menu { display: none; opacity: 1; visibility: visible; margin: 0px; }
+	.nav-mega-menu .col-md-6 { padding-left: 15px !important; }
+	.subheader { padding: 100px 0px; background-position: center !important; background-repeat: no-repeat; background-size: cover !important; background-attachment: unset;}
+	.ec-user-section { margin: 13px 80px 0px 0; }
+	.main-nav { position: absolute; right: 20px; top: 15px; }
+	.tax-top-strip { padding: 19px 0px 14px 0px; }
+	.navbar, .navbar-nav { width: 100%; }
+	.icon:before { margin: 10px 0 0 9px; z-index: 9999;}
+	.nav-mega h5 { font-size: 14px; }
+	.sidebar { margin: 0px 0px 50px; }
+	.fancy-title.left-align,.services-wrap { padding-left: 0px !important; }
+	.about-us { margin: 0px; }
+	.sidebar a { padding: 7px 5px; }
+	ul ul { margin-left: 10px; }
+	.navbar-nav > li > a { font-size: 14px; }
+	.readuce-taxes .readuce-taxes-pragh {
+		width: 500px;
+		font-size: 15px;
+		text-align: justify;
+		margin: auto auto 60px;
+	}
+	.our-services  .service-pragh {
+		width: 500px;
+		text-align: justify;
+		margin: auto ;
+	}
+	.tax-manager-pragh {
+		font-size: 15px;
+	}
+	.we-care .care-title {
+		font-size: 25px;
+	}
+	.tax-about-video .border-img i {
+		left: 41%;
+
+	}
+	.our-services .services-title {
+		font-size: 25px;
+	}
+	.readuce-taxes .redcue-title {
+		font-size: 25px;
+	}
+	.our-services .box-service {   
+		margin: auto auto 20px;
+	}
+
+
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+	.tax-banner-caption { display: none; }
+	.tax-main-content { padding: 60px 0px 50px }
+	.main-nav { position: absolute; right: 20px; top: 15px; }
+	.tax-banner-slider .layer:first-child { background-position: right !important; }
+	.tax-banner-slider .layer { height: 300px; background-size: cover; }
+	.banner-text { width: 100%; }
+	.banner-text p { font-size: 16px; line-height: 24px;}
+	.ec-search-popup form { width: 100%; }
+	.navbar-toggler { border: 1px solid #000; }
+	.navbar { padding: 10px 0px 20px; }
+	.navbar-collapse { position: absolute; right: 0px; top: 100%; z-index: 999; width: 500px; background: #fff; box-shadow: 0px 0px 10px rgba(0,0,0,0.2); }
+	.navbar-nav > li:first-child { margin-left: 0px; }
+	.navbar-nav > li { width: 100%; margin: 0px; padding: 0px 10px !important; position: relative; }
+	.nav-mega-menu { display: none !important;}
+	.subheader { padding: 70px 0px; background-position: center !important; background-repeat: no-repeat; background-size: cover !important; background-attachment: unset;}
+	.newsletter-form { width: 100%; }
+	.newsletter { padding-top: 3px; }
+	.newsletter span { text-align: center; font-size: 22px;}
+	.footer-info:before,.quick-links:before { display: none; }
+	.tax-footer-widget aside.col-md-4 { width: 33.333%; float: left; }
+	.social-network { text-align: center; }
+	.social-network li { margin: 0px 3px 10px; float: none; display: inline-block; }
+	.tax-top-strip .col-md-3 { width: 40%; }
+	.tax-top-strip .col-md-9 { width: 60%; }
+	.ec-user-section { margin: 13px 70px 0px 0px; }
+	.tax-top-strip { padding: 19px 0px 15px 0px; }
+	.tax-about-video { margin: 0px 0px 30px; }
+	.none { display: block; }
+	.block { display: none; }
+	.sidebar { margin: 0px 0px 0px; }
+	.fancy-title.left-align,.services-wrap { padding-left: 0px !important; }
+	.fancy-title.left-align h2 { font-size: 20px; }
+	.tax-main-content .sidebar { display: none; }
+	.nav-item.a.icon:before { display: block; }
+	.footer-contact-info { float: left; width: 50%;}
+	.footer-info { float: right; width: auto; padding: 76px 0px 0px;}
+	.icon:before { pointer-events: none; margin: 0px 0px -40px;}
+	.navbar-nav > li > a { width: 100%; }
+	.readuce-taxes .readuce-taxes-pragh {
+		width: 350px;
+		font-size: 15px;
+		text-align: justify;
+		margin: auto auto 60px;
+	}
+	.our-services  .service-pragh {
+
+		width: 350px;
+		text-align: justify;
+		margin: auto ;
+	}
+	.tax-manager-pragh {
+		font-size: 15px;
+	}
+	.we-care .care-title {
+		font-size: 25px;
+	}
+	.tax-about-video .border-img i {
+		left: 41%;
+
+	}
+	.our-services .services-title {
+		font-size: 25px;
+	}
+	.readuce-taxes .redcue-title {
+		font-size: 25px;
+	}
+	.our-services .box-service {   
+		margin: auto auto 20px;
+	}
+
+}
+/* Media 300Px Start */
+@media (max-width: 600px) {
+	.fancy-title h2 { font-size: 24px; }
+	.contact-form ul li { width: 100%; }
+	.sidebar a { padding: 6px 20px; }
+	.ec-user-section { margin-right: 0px; }
+	.tax-top-strip { padding: 28px 0px 0px; }
+	.navbar-collapse { width: 100%; left: 0px; right: unset; }
+	.tax-top-strip .col-md-9 {padding-left: 0px;}
+	.ec-user-section > li { margin: 0px 0px 0px 5px; }
+	.tax-footer-widget aside.col-md-4 { width: 50%; }
+	.main-nav { position: static; right: unset; top: unset; }
+
+}
+@media (max-width: 420px) {
+
+}
+/* Media 940Px Start */
+@media screen and (min-width: 1100px) and (max-width: 1700px) {
+
+
+}

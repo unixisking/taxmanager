@@ -1,0 +1,17 @@
+--- Optimizations ---
+/*
+ * Minify JS
+ * Minify CSS
+ * Defer or load JS in async mode
+ * Preload CSS
+ * Lazy load images
+ * Lazy load videos
+ *
+*/
+
+
+--- Recommendations ---
+/*
+ * Remove heavy assets like slider, Instead use on image at its place
+ * Remove Video, rather open the video on youtube when clicked on play icon
+*/

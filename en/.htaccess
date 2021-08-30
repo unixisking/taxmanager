@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+
+############################################
+## enable rewrites
+
+Options +FollowSymLinks
+RewriteEngine on
+
+############################################
+## you can put here your magento root folder
+## path relative to web root
+
+#RewriteBase /
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /web/en/index.php/$1 [L]
