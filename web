@@ -307,7 +307,7 @@
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center  wow bounceInUp"   data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms" >
-								<img class="mx-auto d-block rounded-circle" src="images/valuing.jpg" alt="valuing">
+								<img class="mx-auto d-block rounded-circle" src="images/valuing.avif" alt="valuing">
 								<a href="deduction-des-dons.php" target="_blank" class="text ">DÉDUCTION DES DONS</a>
 						</div>					
 					</div>

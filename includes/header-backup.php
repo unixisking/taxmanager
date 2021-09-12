@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.png" />	
+<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.webp" />	
 
 <!-- Css Files -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">

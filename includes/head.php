@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.png" />	
+<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.webp" />	
 
 
 

@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2">
                             <div class="our-footer-info" style=" padding-bottom: 34px;">
-                                    <a href="" class="footer-logo"><img src="images/logo-white.png" alt=""></a>
+                                    <a href="" class="footer-logo"><img src="images/logo-white.webp" alt=""></a>
                             </div>
                             <ul class="social-network">
                                     <li><a href="#" target="_blank" class="fa fa-facebook"></a></li>

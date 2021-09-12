@@ -59,10 +59,10 @@
 	<div class="layer" style="background-image: url('images/tva_new_compressed.jpg');"><img class="loading" src="images/tva_new_compressed.jpg" alt="Décompte TVA"></div>
 </div> -->
 		  <div class="tax-banner-slider">
-			<div class="layer" style="background-image: url('images/fiduciaire_new.jpg');"><img class="loading" data-src="images/fiduciaire_new.jpg" alt="fiduciaire-vaud"></div>
-			<div class="layer" style="background-image: url('images/lausanne_new.jpg');"><img class="loading" data-src="images/lausanne_new.jpg" alt="Fiduciaire Lausanne"></div>
-			<div class="layer" style="background-image: url('images/comptabilite_new.jpg');"><img class="loading" data-src="images/comptabilite_new.jpg" alt="Comptabilité"></div>
-			<div class="layer" style="background-image: url('images/tva_new.jpg');"><img src="images/tva_new.jpg" alt="Décompte TVA"></div>
+			<div class="layer" style="background-image: url('images/fiduciaire_new.avif');"><img class="loading" data-src="images/fiduciaire_new.avif" alt="fiduciaire-vaud"></div>
+			<div class="layer" style="background-image: url('images/lausanne_new.avif');"><img class="loading" data-src="images/lausanne_new.avif" alt="Fiduciaire Lausanne"></div>
+			<div class="layer" style="background-image: url('images/comptabilite_new.avif');"><img class="loading" data-src="images/comptabilite_new.avif" alt="Comptabilité"></div>
+			<div class="layer" style="background-image: url('images/tva_new.avif');"><img src="images/tva_new.avif" alt="Décompte TVA"></div>
 		  </div>
 		  
 		  
@@ -80,7 +80,7 @@
 					  <div class="banner-text">
 						<h1><font color="black"><font size="6">Fiduciaire à Lausanne</font></font></h1>
 						<p><font color="black">Tax Manager s’engage à vous <br>simplifier la vie</font></p>
-						<a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.png" alt="Fiduciaire Yverdon"><font color="black"> Rendez-vous</font></a>
+						<a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.webp" alt="Fiduciaire Yverdon"><font color="black"> Rendez-vous</font></a>
 						<!-- <a href="#">Our Prices</a> -->
 					  </div>
 					</div>
@@ -93,7 +93,7 @@
 		<!--// Main Banner Desktop \\-->
 		
 		<!--// Main Content \\-->
-		<img class="loading hide-desk" src="images/fiduciaire_new_compressed.jpg" alt="fiduciaire">
+		<img class="loading hide-desk" src="images/fiduciaire_new.avif" alt="fiduciaire">
 		<div class="tax-main-content" style="padding-bottom: 0px;">
 
 					<!-- Start  our servies  -->
@@ -189,7 +189,7 @@
 				<div class="col-md-6">
 				  <div class="tax-about-video wow fadeInRight" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
 				  	<div class="border-img">
-				  		<img class="loading" data-src="images/fiduciaire-pully.jpg" alt="Logo Fiduciaire Tax Manager">
+				  		<img class="loading" data-src="images/fiduciaire-pully.avif" alt="Logo Fiduciaire Tax Manager">
 				  		<span class="play" style="cursor:pointer"><i class="fa fa-play fa-4x btn-play" id="btn-play"></i></span>
 						<video width="100%" height="300px" id="video" controls>
 						</video>
@@ -331,37 +331,37 @@
 				<div class="row">
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">  
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-montreux-lausanne.jpg" alt="Fiduciaire Montreux">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-montreux-lausanne.avif" alt="Fiduciaire Montreux">
 								<a href="contribution-au-2eme-pilier.php" target="_blank" class="text ">CONTRIBUTION AU 2ÉME PILIER</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-geneve.jpg" alt="Fiduciaire Nyon Genève">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-geneve.avif" alt="Fiduciaire Nyon Genève">
 								<a href="contribution-au-3eme-pilier.php" target="_blank" class="text ">CONTRIBUTION AU 3ÉME PILIER</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp "  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-pully-gland-renens.jpg" alt="Fiduciaire Pully Gland Renens">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-pully-gland-renens.avif" alt="Fiduciaire Pully Gland Renens">
 								<a href="choix-du-canton-et-de-la-commune.php" target="_blank" class="text ">CHOIX DU CANTON ET DE LA COMMUNE</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center  wow bounceInUp"   data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms" >
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/valuing.jpg" alt="Déclaration d'impôts">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/valuing.avif" alt="Déclaration d'impôts">
 								<a href="deduction-des-dons.php" target="_blank" class="text ">DÉDUCTION DES DONS</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-lausanne-montreux.jpg" alt="Fiduciaire Nyon Lausanne Montreux">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-lausanne-montreux.avif" alt="Fiduciaire Nyon Lausanne Montreux">
 								<a href="deduction-des-frais-medicaux.php" target="_blank" class="text ">DÉDUCTION DES FRAIS MÉDICAUX</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-vaud.jpg" alt="Impôt Source">
+								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-vaud.avif" alt="Impôt Source">
 								<a href="faire-valoir-les-personnes-a-charges.php" target="_blank" class="text ">FAIRE VALOIR LES PERSONNES À CHARGES</a>
 						</div>					
 					</div>

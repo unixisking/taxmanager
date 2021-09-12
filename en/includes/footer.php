@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                             <div class="our-footer-info" style=" padding-bottom: 34px;">
-							  <a href="https://www.taxmanager.ch/en/" class="footer-logo"><img src="../images/logo-white.png" alt="Logo-Fiduciary-Tax-Manager"></a>
+							  <a href="https://www.taxmanager.ch/en/" class="footer-logo"><img src="../images/logo-white.webp" alt="Logo-Fiduciary-Tax-Manager"></a>
                             </div>
                             <ul class="social-network">
                                     <li><a href="https://www.facebook.com/taxmanager.ch" target="_blank" class="fa fa-facebook"></a></li>

@@ -80,10 +80,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="tax-banner hide-mobile">
           <span class="banner-transparent"></span>
           <div class="tax-banner-slider">
-            <div class="layer" style="background-image: url('../images/fiduciaire_new.jpg');"><img src="../images/fiduciaire_new.jpg" alt="fiduciary-vaud"></div>
-            <div class="layer" style="background-image: url('../images/lausanne_new.jpg');"><img src="../images/lausanne_new.jpg" alt="fiduciary-lausanne"></div>
+            <div class="layer" style="background-image: url('../images/fiduciaire_new.avif');"><img src="../images/fiduciaire_new.avif" alt="fiduciary-vaud"></div>
+            <div class="layer" style="background-image: url('../images/lausanne_new.avif');"><img src="../images/lausanne_new.avif" alt="fiduciary-lausanne"></div>
             <div class="layer" style="background-image: url('../images/comptabilite_new.jpg');"><img src="../images/comptabilite_new.jpg" alt="accounting"></div>
-            <div class="layer" style="background-image: url('../images/tva_new.jpg');"><img src="../images/tva_new.jpg" alt="VAT"></div>
+            <div class="layer" style="background-image: url('../images/tva_new.avif');"><img src="../images/tva_new.avif" alt="VAT"></div>
           </div>
           <div class="tax-banner-caption">
             <div class="tax-table">
@@ -94,7 +94,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <div class="banner-text">
                         <h1><font color="black"><font size="6">Swiss Fiduciary</font></font></h1>
                         <p><font color="black">Tax Manager is committed to making your<br>life easier</font></p>
-                        <a href="contact-us.php"><img src="../images/fiduciaire-yverdon.png" alt="fiduciary-yverdon"><font color="black"> Appointment</font></a>
+                        <a href="contact-us.php"><img src="../images/fiduciaire-yverdon.webp" alt="fiduciary-yverdon"><font color="black"> Appointment</font></a>
                         <!-- <a href="#">Our Prices</a> -->
                       </div>
                     </div>
@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!--// Main Banner Desktop \\-->
 
         <!-- Start  our servies  -->
-        <img class="hide-desk" src="../images/fiduciaire_new.jpg">
+        <img class="hide-desk" src="../images/fiduciaire_new.avif">
         <div class="our-services">
             <div class="container">
                <div class=" our-services-title text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="1s">
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center  wow bounceInUp"   data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms" >
-								<img class="mx-auto d-block rounded-circle" src="../images/valuing.jpg" alt="Tax-Return">
+								<img class="mx-auto d-block rounded-circle" src="../images/valuing.avif" alt="Tax-Return">
 								<a href="deduction-of-donations.php" target="_blank" class="text ">DEDUCTION OF DONATIONS</a>
 						</div>					
 					</div>

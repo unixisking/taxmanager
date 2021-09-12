@@ -1,5 +1,5 @@
     <!-- Css Files -->
-    <link rel="shortcut icon" href="fiduciaire-yverdon.png" type="image/png" />
+    <link rel="shortcut icon" href="fiduciaire-yverdon.webp" type="image/png" />
 	<link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/slick-slider.css" rel="stylesheet">
     <link href="css/font-awesome.css" rel="stylesheet">

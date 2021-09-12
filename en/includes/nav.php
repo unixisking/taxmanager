@@ -60,7 +60,7 @@
                                                   <div class="tax-table-cell">
                                                     <div class="nav-mega">
                                                       <h5>Appointment</h5>
-                                                      <a href="contact-us.php"><img class="" src="../../images/fiduciaire-yverdon.png
+                                                      <a href="contact-us.php"><img class="" src="../../images/fiduciaire-yverdon.webp
                                                                                          " width=90 height=89 alt="Fiduciary-accounting"> </a>
                                                     </div>
                                                   </div>
