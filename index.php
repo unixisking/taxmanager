@@ -99,7 +99,7 @@
 		<!--// Main Banner Desktop \\-->
 		
 		<!--// Main Content \\-->
-		<img class="loading hide-desk" src="images/fiduciaire_new.avif" alt="fiduciaire">
+		<img width="530" height="180" class="loading hide-desk" src="images/fiduciaire_new.avif" alt="fiduciaire">
 		<div class="tax-main-content" style="padding-bottom: 0px;">
 
 					<!-- Start  our servies  -->
