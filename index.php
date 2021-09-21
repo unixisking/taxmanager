@@ -62,7 +62,7 @@
 			<div class="layer" style="background-image: url('images/fiduciaire_new.avif');"><img class="loading" data-src="images/fiduciaire_new.avif" alt="fiduciaire-vaud"></div>
 			<div class="layer" style="background-image: url('images/lausanne_new.avif');"><img class="loading" data-src="images/lausanne_new.avif" alt="Fiduciaire Lausanne"></div>
 			<div class="layer" style="background-image: url('images/comptabilite_new.avif');"><img class="loading" data-src="images/comptabilite_new.avif" alt="Comptabilité"></div>
-			<div class="layer" style="background-image: url('images/tva_new.avif');"><img src="images/tva_new.avif" alt="Décompte TVA"></div>
+			<div class="layer" style="background-image: url('images/tva_new.avif');"><img class="loading" src="images/tva_new.avif" alt="Décompte TVA"></div>
 		  </div>
 		  
 		  
