@@ -211,7 +211,8 @@
 				<div class="col-md-6">
 					<div class="tax-about-img  wow fadeInLeftBig"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms"  >
 						<div class="tax-border-img ">
-							<div class="border-bg" style="background-image: url('./images/fiduciaire-lutry.jpg')">  </div>
+							<!-- <div class="border-bg" style="background-image: url('./images/fiduciaire-lutry.jpg')">  </div> -->
+							<img loading="lazy" class="border-bg" src="./images/fiduciaire-lutry.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -252,7 +253,9 @@
 				<div class="col-md-6">
 					<div class="tax-about-img wow fadeInRightBig  " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
 						<div class="tax-border-img-two float-right " >
-							<div class="border-bg-two" style="background-image: url('./images/fiduciaire-geneve.jpg')">  </div>
+							<!-- <div class="border-bg-two" style="background-image: url('./images/fiduciaire-geneve.jpg')">  </div> -->
+							<img class="border-bg-two" loading="lazy" src="./images/fiduciaire-geneve.jpg" />
+
 						</div>
 					</div>
 				</div>

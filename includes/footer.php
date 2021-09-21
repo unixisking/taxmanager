@@ -83,61 +83,57 @@
 <div class="clearfix"></div>
 </div>
 <!--// Main Wrapper \\-->
+<script>
+//***************************
+// BannerOne Functions
+//***************************
+
+function loadJSModule(path) {
+    const script = document.createElement('script');
+    document.body.appendChild(script);
+    script.src = path;
+    script.type = 'text/javascript';
+	script.async = true
+}
+
+window.addEventListener('load', () => {
+	const screenWidth =
+    	window.innerWidth > 0
+      		? window.innerWidth
+      		: document.documentElement.clientWidth;
+	if(screenWidth > 767) {
+		loadJSModule("script/slick.slider.min.js")
+	}
+})
+
+window.addEventListener('resize', () => {
+	let isLoaded = false
+	const screenWidth =
+    	window.innerWidth > 0
+      		? window.innerWidth
+      		: document.documentElement.clientWidth;
+	if(isLoaded === false && screenWidth > 767) {
+		isLoaded = true
+		loadJSModule("script/slick.slider.min.js")
+	}
+});
+
+</script>
 
 
 <!-- jQuery (necessary for JavaScript plugins)
 
 -->
-
 <script src="script/jquery.validate_min.js"></script>
 <script src="https://kit.fontawesome.com/bf6205eb78.js"></script>
 <!-- <script class="script" type="text/javascript" data-src="script/additional-methods.min.js"></script>
 <script class="script" type="text/javascript" data-src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script> -->
 <script type="text/javascript" src="script/bootstrap.min.js"></script>
-<script type="text/javascript" src="script/slick.slider.min.js"></script>
-<script type="text/javascript" src="script/jquery.nicescroll.min.js"></script>
+<!-- <script type="text/javascript" src="script/slick.slider.min.js"></script> -->
+<!-- <script type="text/javascript" src="script/jquery.nicescroll.min.js"></script> -->
 <script type="text/javascript" class="loading" data-src="script/main.js"></script>
 
 <script>
-  //***************************
-  // BannerOne Functions
-  //***************************
-  jQuery(".tax-banner-slider").slick({
-	slidesToShow: 1,
-	slidesToScroll: 1,
-	autoplay: true,
-	autoplaySpeed: 3000,
-	infinite: true,
-	dots: false,
-	arrows: false,
-	// prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
-	// nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
-	fade: true,
-	responsive: [
-	  {
-		breakpoint: 1024,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1,
-		  infinite: true,
-		},
-	  },
-	  {
-		breakpoint: 800,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1,
-		},
-	  },
-	  {
-		breakpoint: 400,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1,
-		},
-	  },
-	],
-	  });
 	  $(window).on('load', function() {
 	  var imgEl = document.getElementsByClassName('loading');
 	  for (var i=0; i<imgEl.length; i++) {

@@ -85,7 +85,7 @@
     <script type="text/javascript" src="../script/bootstrap.min.js"></script>
     <script type="text/javascript" src="../script/slick.slider.min.js"></script>
     <!-- <script type="text/javascript" src="../script/functions.js"></script> -->
-    <script src="../script/jquery.nicescroll.min.js"></script>
+    <!-- <script src="../script/jquery.nicescroll.min.js"></script> -->
     <script type="text/javascript" src="../script/main.js"></script>
 	<script>
 		//***************************
