@@ -106,8 +106,8 @@ window.addEventListener('load', () => {
 	}
 })
 
+let isLoaded = false
 window.addEventListener('resize', () => {
-	let isLoaded = false
 	const screenWidth =
     	window.innerWidth > 0
       		? window.innerWidth
