@@ -102,9 +102,6 @@
 	.hide-desk {
 	  display: none;
 	}
-	.tax-banner-slider {
-		height: 440px;
-	}
 }
   
   @media (max-width: 600px) {

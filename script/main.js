@@ -7,84 +7,78 @@ jQuery(document).ready(function ($) {
   //***************************
   // BannerOne Functions
   //***************************
-  const screenWidth =
-    window.innerWidth > 0
-      ? window.innerWidth
-      : document.documentElement.clientWidth;
-  if (screenWidth > 767) {
-    jQuery('.tax-banner-slider').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 3000,
-      infinite: true,
-      dots: false,
-      arrows: false,
-      // prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
-      // nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
-      fade: true,
-      responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            infinite: true,
-          },
+  jQuery('.tax-banner-slider').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    infinite: true,
+    dots: false,
+    arrows: false,
+    // prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
+    // nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
+    fade: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          infinite: true,
         },
-        {
-          breakpoint: 800,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          },
+      },
+      {
+        breakpoint: 800,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
         },
-        {
-          breakpoint: 400,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          },
+      },
+      {
+        breakpoint: 400,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
         },
-      ],
-    });
-    jQuery('.testimonial-slider').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 3000,
-      infinite: true,
-      dots: true,
-      arrows: false,
-      // prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
-      // nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
-      fade: false,
-      responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            infinite: true,
-          },
+      },
+    ],
+  });
+  jQuery('.testimonial-slider').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    infinite: true,
+    dots: true,
+    arrows: false,
+    // prevArrow: "<span class='slick-arrow-left'><i class='fa fa-angle-left'></i></span>",
+    // nextArrow: "<span class='slick-arrow-right'><i class='fa fa-angle-right'></i></span>",
+    fade: false,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          infinite: true,
         },
-        {
-          breakpoint: 800,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          },
+      },
+      {
+        breakpoint: 800,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
         },
-        {
-          breakpoint: 400,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          },
+      },
+      {
+        breakpoint: 400,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
         },
-      ],
-    });
-  }
+      },
+    ],
+  });
 
   // initianlizing nice scroll
   // $('html').niceScroll();
