@@ -218,7 +218,7 @@
 					<div class="tax-about-img  wow fadeInLeftBig"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms"  >
 						<div class="tax-border-img ">
 							<!-- <div class="border-bg" style="background-image: url('./images/fiduciaire-lutry.jpg')">  </div> -->
-							<img loading="lazy" class="border-bg" src="./images/fiduciaire-lutry.jpg" alt="">
+							<img width="300" height="350" loading="lazy" class="border-bg" src="./images/fiduciaire-lutry.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -260,7 +260,7 @@
 					<div class="tax-about-img wow fadeInRightBig  " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
 						<div class="tax-border-img-two float-right " >
 							<!-- <div class="border-bg-two" style="background-image: url('./images/fiduciaire-geneve.jpg')">  </div> -->
-							<img class="border-bg-two" loading="lazy" src="./images/fiduciaire-geneve.jpg" />
+							<img width="312" height="350" class="border-bg-two" loading="lazy" src="./images/fiduciaire-geneve.jpg" />
 
 						</div>
 					</div>
@@ -277,7 +277,8 @@
 				<div class="col-md-6">
 					<div class="tax-about-img  wow fadeInLeftBig " data-wow-offset="500"  data-wow-iteration="1" data-wow-duration="900ms">
 						<div class="tax-border-img">
-							<div class="border-bg" style="background-image: url('./images/comptabilite-salaire-tva.jpg')">  </div>
+							<!-- <div class="border-bg" style="background-image: url('./images/comptabilite-salaire-tva.jpg')">  </div> -->
+							<img width="330" height= "350" loading="lazy" class="border-bg" src="./images/comptabilite-salaire-tva.jpg" />
 						</div>
 					</div></div>
 				<div class="col-md-6">
@@ -316,7 +317,8 @@
 				<div class="col-md-6">
 					<div class="tax-about-img wow fadeInRightBig " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
 						<div class="tax-border-img-two float-right">
-							<div class="border-bg-two" style="background-image: url('./images/salaire.jpg')" >  </div>
+							<!-- <div class="border-bg-two" style="background-image: url('./images/salaire.jpg')" >  </div> -->
+							<img width="330" height= "350" loading="lazy" class="border-bg-two" src="./images/salaire.jpg" />
 						</div>
 					</div>
 				</div>
@@ -340,37 +342,37 @@
 				<div class="row">
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">  
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-montreux-lausanne.avif" alt="Fiduciaire Montreux">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-montreux-lausanne.avif" alt="Fiduciaire Montreux">
 								<a href="contribution-au-2eme-pilier.php" target="_blank" class="text ">CONTRIBUTION AU 2ÉME PILIER</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-geneve.avif" alt="Fiduciaire Nyon Genève">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-geneve.avif" alt="Fiduciaire Nyon Genève">
 								<a href="contribution-au-3eme-pilier.php" target="_blank" class="text ">CONTRIBUTION AU 3ÉME PILIER</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp "  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-pully-gland-renens.avif" alt="Fiduciaire Pully Gland Renens">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-pully-gland-renens.avif" alt="Fiduciaire Pully Gland Renens">
 								<a href="choix-du-canton-et-de-la-commune.php" target="_blank" class="text ">CHOIX DU CANTON ET DE LA COMMUNE</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center  wow bounceInUp"   data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms" >
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/valuing.avif" alt="Déclaration d'impôts">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/valuing.avif" alt="Déclaration d'impôts">
 								<a href="deduction-des-dons.php" target="_blank" class="text ">DÉDUCTION DES DONS</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-lausanne-montreux.avif" alt="Fiduciaire Nyon Lausanne Montreux">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-nyon-lausanne-montreux.avif" alt="Fiduciaire Nyon Lausanne Montreux">
 								<a href="deduction-des-frais-medicaux.php" target="_blank" class="text ">DÉDUCTION DES FRAIS MÉDICAUX</a>
 						</div>					
 					</div>
 					<div class="col-xs-6 mx-auto">
 						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-vaud.avif" alt="Impôt Source">
+								<img width="308" height="308" loading="lazy" class="mx-auto d-block rounded-circle loading" data-src="images/fiduciaire-vaud.avif" alt="Impôt Source">
 								<a href="faire-valoir-les-personnes-a-charges.php" target="_blank" class="text ">FAIRE VALOIR LES PERSONNES À CHARGES</a>
 						</div>					
 					</div>
