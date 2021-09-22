@@ -1,4 +1,9 @@
 <!--// Header \\-->
+<style>
+	#tax-services {
+		width: 150px;
+	}
+</style>
 		<header id="tax-header" class="tax-header-one">
 		  <div class="tax-top-strip">
 			<div class="container">
@@ -16,7 +21,7 @@
 						  <a href="https://www.taxmanager.ch" class="active">French</a>
 					  </div>
 					</li>
-					<li><a href="javascript:void(0)" class="ec-search-popup-btn"><i class="fa fa-search"></i></a></li>
+					<li><a style="width: 38px" href="javascript:void(0)" class="ec-search-popup-btn"><i class="fa fa-search"></i></a></li>
 				  </ul>
 				</div>
 			  </div>

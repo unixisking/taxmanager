@@ -92,6 +92,7 @@
 <!-- <script class="script" type="text/javascript" data-src="script/additional-methods.min.js"></script>
 <script class="script" type="text/javascript" data-src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script> -->
 <script type="text/javascript" src="script/bootstrap.min.js"></script>
+<script type="text/javascript" src="script/slick.slider.min.js"></script>
 <!-- <script type="text/javascript" src="script/jquery.nicescroll.min.js"></script> -->
 <script type="text/javascript" class="loading" data-src="script/main.js"></script>
 
