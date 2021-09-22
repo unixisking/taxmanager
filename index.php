@@ -11,10 +11,10 @@
 	<meta name="description" content="Déclarations d'impôt, Réclamations, comptabilité et décompte TVA, Gestion des salaires, Création d'entreprise, Conseil fiscal, Modification et paiement des acomptes" />
 	<link rel="preconnect" href="https://kit.fontawesome.com/">
 	<link rel="preconnect" href="https://ka-f.fontawesome.com/">
-	<link rel="preload" href="https://kit.fontawesome.com/bf6205eb78.js">
+	<!-- <link rel="preload" href="https://kit.fontawesome.com/bf6205eb78.js">
 	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-brands-400.woff2">
 	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-regular-400.woff2">
-	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-solid-900.woff2">
+	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-solid-900.woff2"> -->
 	
 
 	<?php include "includes/head.php" ?>
@@ -64,11 +64,11 @@
 	<div class="layer" style="background-image: url('images/comptabilite_new_compressed.jpg');"><img class="loading" src="images/comptabilite_new_compressed.jpg" alt="Comptabilité"></div>
 	<div class="layer" style="background-image: url('images/tva_new_compressed.jpg');"><img class="loading" src="images/tva_new_compressed.jpg" alt="Décompte TVA"></div>
 </div> -->
-		  <div class="tax-banner-slider">
-			<div class="layer" style="background-image: url('images/fiduciaire_new.avif');"><img class="loading" data-src="images/fiduciaire_new.avif" alt="fiduciaire-vaud"></div>
-			<div class="layer" style="background-image: url('images/lausanne_new.avif');"><img class="loading" data-src="images/lausanne_new.avif" alt="Fiduciaire Lausanne"></div>
-			<div class="layer" style="background-image: url('images/comptabilite_new.avif');"><img class="loading" data-src="images/comptabilite_new.avif" alt="Comptabilité"></div>
-			<div class="layer" style="background-image: url('images/tva_new.avif');"><img class="loading" src="images/tva_new.avif" alt="Décompte TVA"></div>
+		  <div class="tax-banner-slider" style="height: 485px">
+			<div class="layer" style="background-image: url('images/fiduciaire_new.avif');"><img height="485" width="auto" class="loading" data-src="images/fiduciaire_new.avif" alt="fiduciaire-vaud"></div>
+			<div class="layer" style="background-image: url('images/lausanne_new.avif');"><img height="485" width="auto"class="loading" data-src="images/lausanne_new.avif" alt="Fiduciaire Lausanne"></div>
+			<div class="layer" style="background-image: url('images/comptabilite_new.avif');"><img height="485" width="auto" class="loading" data-src="images/comptabilite_new.avif" alt="Comptabilité"></div>
+			<div class="layer" style="background-image: url('images/tva_new.avif');"><img height="485" width="auto" class="loading" src="images/tva_new.avif" alt="Décompte TVA"></div>
 		  </div>
 		  
 		  
