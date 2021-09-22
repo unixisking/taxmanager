@@ -86,7 +86,7 @@
 					  <div class="banner-text">
 						<h1><font color="black"><font size="6">Fiduciaire à Lausanne</font></font></h1>
 						<p><font color="black">Tax Manager s’engage à vous <br>simplifier la vie</font></p>
-						<a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.webp" alt="Fiduciaire Yverdon"><font color="black"> Rendez-vous</font></a>
+						<a href="contact-us.php"><img height="20" width="20" class="loading" data-src="images/fiduciaire-yverdon.webp" alt="Fiduciaire Yverdon"><font color="black"> Rendez-vous</font></a>
 						<!-- <a href="#">Our Prices</a> -->
 					  </div>
 					</div>

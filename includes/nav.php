@@ -101,7 +101,7 @@
 									  <div class="col-md-6" style="padding-left: 50px;">
 										<div class="nav-mega">
 										  <h2>
-										  	<div class="fa icon-container"><img class="new-icons loading" data-src="images/income_service.svg"></div> <a href="comptabilite.php">Comptabilité et gestion des salaires</a>
+										  	<div class="fa icon-container"><img height="16" width="16" class="new-icons loading" data-src="images/income_service.svg"></div> <a href="comptabilite.php">Comptabilité et gestion des salaires</a>
 										  </h2>
 										  <ul>
 											<li><h3><a href="comptabilite-pour-les-independants.php">Comptabilité pour les indépendants (personnes physiques)</a></h3></li>
@@ -111,7 +111,7 @@
 										</div>
 										<div class="nav-mega">
 										  <h2>
-										  	<div class="fa icon-container"><img class="new-icons loading" data-src="images/percentage_service.svg"></div> <a href="decompte-tva.php">Décompte TVA</a>
+										  	<div class="fa icon-container"><img height="16" width="16" class="new-icons loading" data-src="images/percentage_service.svg"></div> <a href="decompte-tva.php">Décompte TVA</a>
 										  </h2>
 										  <ul>
 											<li><h3><a href="decompte-de-la-tva-selon-la-methode-normale-et-nette.php">Décompte de la TVA selon la méthode normale et nette</a></h3></li>
@@ -119,7 +119,7 @@
 										</div>
 										<div class="nav-mega">
 										  <h2>
-										  	<div class="fa icon-container"><img class="new-icons loading" data-src="images/taxes_service.svg"></div> <a href="declaration-d-impot-des-personnes-morales.php">Déclaration d'impôt des personnes morales</a>
+										  	<div class="fa icon-container"><img height="16" width="16" class="new-icons loading" data-src="images/taxes_service.svg"></div> <a href="declaration-d-impot-des-personnes-morales.php">Déclaration d'impôt des personnes morales</a>
 										  </h2>
 										  <ul>
 											<li><h3><a href="assujettissement-illimite.php">Assujettissement illimité</a></h3></li>
@@ -138,7 +138,7 @@
 								<li>
 								  <ul>
 									<li class="tax-side-dropdown"><i class="fa fa-angle-down"></i>
-									<img class="new-icons loading" data-src="images/tax_service.svg">
+									<img class="new-icons loading" height="30" width="30" data-src="images/tax_service.svg">
 									  <a href="imposition-des-particuliers.php">Imposition des particuliers</a>
 									  <ul class="service-drop">
 										<li><a href="declaration-d-impot-ordinaire.php">Déclaration d'impôt ordinaire</a></li>
@@ -149,7 +149,7 @@
 										<li><a href="controle-et-reclamation-contre-decision-de-taxation.php">Contrôle et réclamation contre décision de taxation</a></li>
 									  </ul>
 									</li>
-									<li class="tax-side-dropdown"><i class="fa fa-angle-down"></i><img class="new-icons loading" data-src="images/idea_service.svg"><a href="creation-d-entreprise.php">Création d'entreprise</a>
+									<li class="tax-side-dropdown"><i class="fa fa-angle-down"></i><img height="16" width="16" class="new-icons loading" data-src="images/idea_service.svg"><a href="creation-d-entreprise.php">Création d'entreprise</a>
 									  <ul class="service-drop">
 										<li><a href="le-choix-du-statut-juridique-des-entreprises.php">Le choix du statut juridique des entreprises</a></li>
 										<li><a href="avantages-et-inconvenients-de-la-raison-individuelle-et-societe-en-nom-collectif.php">Avantages et inconvénients de la  raison individuelle et société en nom collectif</a></li>
