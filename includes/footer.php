@@ -83,43 +83,6 @@
 <div class="clearfix"></div>
 </div>
 <!--// Main Wrapper \\-->
-<script>
-//***************************
-// BannerOne Functions
-//***************************
-
-function loadJSModule(path) {
-    const script = document.createElement('script');
-    document.body.appendChild(script);
-    script.src = path;
-    script.type = 'text/javascript';
-	script.async = true
-}
-
-// window.addEventListener('load', () => {
-// 	const screenWidth =
-//     	window.innerWidth > 0
-//       		? window.innerWidth
-//       		: document.documentElement.clientWidth;
-// 	if(screenWidth > 767) {
-// 		loadJSModule("script/slick.slider.min.js")
-// 	}
-// })
-
-// let isLoaded = false
-// window.addEventListener('resize', () => {
-// 	const screenWidth =
-//     	window.innerWidth > 0
-//       		? window.innerWidth
-//       		: document.documentElement.clientWidth;
-// 	if(isLoaded === false && screenWidth > 767) {
-// 		isLoaded = true
-// 		loadJSModule("script/slick.slider.min.js")
-// 	}
-// });
-
-</script>
-
 
 <!-- jQuery (necessary for JavaScript plugins)
 
@@ -129,16 +92,6 @@ function loadJSModule(path) {
 <!-- <script class="script" type="text/javascript" data-src="script/additional-methods.min.js"></script>
 <script class="script" type="text/javascript" data-src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script> -->
 <script type="text/javascript" src="script/bootstrap.min.js"></script>
-<?php
-function isMobileDevice() {
-    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo
-|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i"
-, $_SERVER["HTTP_USER_AGENT"]);
-}
-if(!isMobileDevice()) {
-	echo '<script type="text/javascript" src="script/slick.slider.min.js"></script>';
-}
-?>
 <!-- <script type="text/javascript" src="script/jquery.nicescroll.min.js"></script> -->
 <script type="text/javascript" class="loading" data-src="script/main.js"></script>
 
