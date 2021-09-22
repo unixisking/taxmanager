@@ -195,12 +195,12 @@
 				</div>
 				<div class="col-md-6">
 				  <div class="tax-about-video wow fadeInRight" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-				  	<div class="border-img">
+				  	<!-- <div class="border-img">
 				  		<img class="loading" data-src="images/fiduciaire-pully.avif" alt="Logo Fiduciaire Tax Manager">
 				  		<span class="play" style="cursor:pointer"><i class="fa fa-play fa-4x btn-play" id="btn-play"></i></span>
 						<video width="100%" height="300px" id="video" controls>
 						</video>
-					</div>
+					</div> -->
 				  </div>
 				</div>
 			  </div>
