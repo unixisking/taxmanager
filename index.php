@@ -10,13 +10,8 @@
 	<title>Fiduciaire Tax Manager | Fiduciaire Lausanne</title>
 	<meta name="description" content="Déclarations d'impôt, Réclamations, comptabilité et décompte TVA, Gestion des salaires, Création d'entreprise, Conseil fiscal, Modification et paiement des acomptes" />
 	<link rel="preconnect" href="https://kit.fontawesome.com/">
+	<link rel="preconnect" as="font" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://ka-f.fontawesome.com/">
-	<link rel="preload" as="script" href="https://kit.fontawesome.com/bf6205eb78.js">
-	<!-- <link rel="preload" href="https://kit.fontawesome.com/bf6205eb78.js">
-	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-brands-400.woff2">
-	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-regular-400.woff2">
-	<link rel="preload" href="https://ka-f.fontawesome.com/releases/v5.15.3/webfonts/free-fa-solid-900.woff2"> -->
-	
 
 	<?php include "includes/head.php" ?>
 	<body>
