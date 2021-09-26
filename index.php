@@ -8,6 +8,7 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta name="google-site-verification" content="eaW40tZIl9bFS6qIRs3evJTifs_XmkUXSOLJSCq7bIU" />
 	<title>Fiduciaire Tax Manager | Fiduciaire Lausanne</title>
+	<script type="text/javascript" src="script/slick.slider.min.js"></script>
 	<meta name="description" content="Déclarations d'impôt, Réclamations, comptabilité et décompte TVA, Gestion des salaires, Création d'entreprise, Conseil fiscal, Modification et paiement des acomptes" />
 	<link rel="preconnect" href="https://kit.fontawesome.com/">
 	<link rel="preconnect" href="https://ka-f.fontawesome.com/">
