@@ -5,11 +5,11 @@
   <!-- Start main Footer -->
   <div class="our-footer">
 	<div class="container">
-	  <span id="uptoTop" style="text-align: center; display:block;width: 50px;;  margin: 10px auto 10px; cursor:pointer"> <i class="fa fa-chevron-circle-up" style="color: #E0C56E; font-size:35px" ></i></span>
+	  <span id="uptoTop" style="text-align: center; display:block;width: 50px;height:36px;  margin: 10px auto 10px; cursor:pointer"> <i width="35" height="35" class="fa fa-chevron-circle-up" style="color: #E0C56E; font-size:35px" ></i></span>
 	  <div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-2">
 		  <div class="our-footer-info" style=" padding-bottom: 34px;">
-			<a href="" class="footer-logo"><img src="images/logo-white.webp" alt="Logo Fiduciaire Tax Manager"></a>
+			<a href="" class="footer-logo"><img width="130" height="60" src="images/logo-white.webp" alt="Logo Fiduciaire Tax Manager"></a>
 		  </div>
 		  <ul class="social-network">
 			<li><a href="https://www.facebook.com/taxmanager.ch" target="_blank" class="fa fa-facebook"></a></li>

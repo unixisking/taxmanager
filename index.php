@@ -121,7 +121,7 @@
 						<!-- New service Box -->
 						<div class="col-xs-12 col-sm-6 col-md-6 col-services">
 	                        <div class="box-service text-center  wow bounceInUp" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-							<img class="new-services-icons loading" data-src="images/tax_service.svg">
+							<img width="50" height="40" class="new-services-icons loading" data-src="images/tax_service.svg">
 	                            <h4>imposition des particuliers</h4>
 	                            <p class="text-center">
 								Notre étude prend en charge les déductions qui sont adaptées à votre situation selon les nouvelles...
@@ -132,7 +132,7 @@
 
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-services ">
                         <div class="box-service text-center  wow bounceInUp" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<img class="new-services-icons loading" data-src="images/idea_service.svg">
+						<img width="50" height="40" class="new-services-icons loading" data-src="images/idea_service.svg">
                             <h4>CRÉATION D'ENTREPRISE</h4>
                             <p class="text-center">
 							La création d'une entreprise est un projet qui nécessite beaucoup de préparation, une mauvaise décision...
@@ -142,7 +142,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-services ">
                         <div class="box-service text-center wow bounceInUp fix-service-height"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="300ms">
-						<img class="new-services-icons loading" data-src="images/income_service.svg">
+						<img width="50" height="40" class="new-services-icons loading" data-src="images/income_service.svg">
                          <h4>Comptabilité et gestion des salaires</h4> 
                          <p class="text-center">  
 						 La comptabilité est un outil de gestion de données financières qui permet aux entreprises...
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-services ">
                         <div class="box-service text-center wow bounceInUp"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="600ms">
-						<img class="new-services-icons loading" data-src="images/percentage_service.svg">
+						<img width="50" height="40" class="new-services-icons loading" data-src="images/percentage_service.svg">
                          <h4>DÉCOMPTE TVA</h4>
                          <p class="text-center">
 						 La taxe sur la valeur ajoutée est un impôt indirect collecté et perçu par la confédération aux différents...
@@ -162,7 +162,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 col-services">
                         <div class="box-service text-center wow bounceInUp fix-service-height"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="700ms">
-						<img class="new-services-icons loading" data-src="images/taxes_service.svg">
+						<img width="50" height="40" class="new-services-icons loading" data-src="images/taxes_service.svg">
                          <h4>Déclaration d'impôt Personne morale</h4>
                          <p class="text-center">
 						 Selon le droit suisse, le terme personne morale comprend les sociétés à responsabilité...
