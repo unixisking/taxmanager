@@ -88,7 +88,7 @@
 
 -->
 <script src="script/jquery.validate_min.js"></script>
-<script src="https://kit.fontawesome.com/bf6205eb78.js"></script>
+<!-- <script src="https://kit.fontawesome.com/bf6205eb78.js"></script> -->
 <!-- <script class="script" type="text/javascript" data-src="script/additional-methods.min.js"></script>
 <script class="script" type="text/javascript" data-src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script> -->
 <script type="text/javascript" src="script/slick.slider.min.js"></script>
