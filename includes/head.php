@@ -109,6 +109,8 @@
 	  padding-left: 30px;
 	}
   }
+  .tax-banner-slider { display: none; }
+.tax-banner-slider.slick-initialized { display: block; }
 
 </style>
 </head>
