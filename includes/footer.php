@@ -111,6 +111,7 @@
 	  $("#video").append("<source src='images/fiduciaire-lausanne-geneve.mp4' type='video/mp4'><source src='video.ogg' type='video/ogg'><source src='video.webm' type='video/webm'>");
 	}, 2000);
   });
+
 </script>
 </body>
 </html>

@@ -73,7 +73,8 @@
 		  
 		  
 		  
-		  <div class="tax-banner-caption">
+		  <div class="relative-tax-banner-caption" />
+		  <div class="tax-banner-caption absolute-tax-banner-caption">
 			<div class="tax-table">
 			  <div class="tax-table-cell">
 				<div class="container">
