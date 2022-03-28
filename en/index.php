@@ -179,212 +179,257 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <!-- End our Sevvices  -->
 
-		<!--// Main Content \\-->
-		<div class="tax-main-content" style="padding-bottom: 0px;">
-
-            <!--// Main Section \\-->
-            <div class="tax-main-section about-full">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="tax-table">
-                                <div class="tax-table-cell">
-                                    <div class="about-us  wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-                                        <h3 class="section-title">Who we are?</h3>
-                                        <p>Tax Manager is a company active in the administrative service and tax consultancy. We mainly prepare tax returns for natural persons (individuals) and legal entities, as well as other tasks related to investment and business management. Our experience and knowledge of Swiss tax laws make us one of the best expertise on the Swiss market, our study is often solicited by several Swiss schools and universities in order to share with them our knowledge and experience in taxation; we have already contributed to the training of several executives who currently hold very important positions in various companies.</p>
-                                        <a href="who-we-are.php" class="simple-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="tax-about-video wow fadeInRight" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-                                <div class="border-img">
-                                    <img src="../images/logo-black.png" alt="Fiduciary-Tax-Manger-logo">
-                                    <span class="play" style="cursor:pointer"><i class="fa fa-play fa-4x btn-play" id="btn-play"></i></span>
-                                    <video width="100%" height="300px"id="video" >
-                                        <source src="/images/video.mp4" type="video/mp4">
-                                        <source src="video.ogg" type="video/ogg">
-                                        <source src="video.webm" type="video/webm">
-                                    </video>
-                                </div>
-                            </div>
-				        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// Main Section \\-->
-		</div>
-        <!--// Main Content \\-->
-          <!-- Start We care about our Clients  -->
-		  <div class="we-care text-center wow slideInUp " data-wow-offset="550"  data-wow-iteration="1" data-wow-duration="900ms">
-		  		<h3 class="care-title text-uppercase">We care about our clients</h3>
-		  </div>
-		  <!--// Main Section \\-->
-		  <div class="tax-main-section side-services-full">
-			<div class="container">
-			  <div class="row">
-				<div class="col-md-6">
-					<div class="tax-about-img  wow fadeInLeftBig"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms"  >
-						<div class="tax-border-img ">
-							<div class="border-bg" style="background-image: url('../images/services-bg4.jpg')">  </div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-				  <div class="tax-table">
-					<div class="tax-table-cell">
-					  <div class="side-services wow zoomIn " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" >
-						<h3 class="section-title">Taxation according to the family situation</h3>
-                        <p>The taxation of natural persons (individuals) depends on their family situation and not on the exercise of a gainful activity, whether you are employed or independent, your taxation will depend on several elements outlined above are considered to determine your family situation;</p>
-                        <p>The income and wealth of spouses or registered partners are added together regardless of the plan mentioned. Only one tax return is considered in the following cases: </p>
-						<a href="taxation-according-to-the-family-situation.php" class="simple-btn">Read More</a>
-					  </div>
-					</div>
-				  </div>
-				</div>
-			  </div>
-			</div>
-		  </div>
-		  <!--// Main Section \\-->
 		  
-		  <!--// Main Section \\-->
-		  <div class="tax-main-section side-services2-full  ">
-			<div class="container">
-			  <div class="row">
-				<div class="col-md-6">
-				  <div class="tax-table">
-					<div class="tax-table-cell">
-					  <div class="side-services wow zoomIn"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<h3 class="section-title">Sovereignty and tax competition between cantons</h3>
-                        <p>Before trying to explain the competition on taxing legal entities, we are first going to explain the functioning of Swiss taxation. The Swiss political system is that of a federal state which has established the separation of powers and has constituted three authorities, the federal, cantonal and communal authorities.</p>
-                        <p>The Swiss tax system is characterized by the sovereignty of the cantons which define according to their needs the tax rate for natural persons (individuals) and legal entities, this evidently create a certain competition between cantons that try to attract more and more companies by their tax system, which increase production, consumption and reduce unemployment in their turn.</p> 
-						<a href="sovereignty-and-tax-competition-between-canton.php" class="simple-btn">Read More</a>
-					  </div>
-					</div>
-				  </div>
-				</div>
-				<div class="col-md-6">
-					<div class="tax-about-img wow fadeInRightBig  " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<div class="tax-border-img-two float-right " >
-							<div class="border-bg-two" style="background-image: url('../images/competition.jpg')">  </div>
-						</div>
-					</div>
-				</div>
-			  </div>
-			</div>
-		  </div>
-		  <!--// Main Section \\-->
 		  
-		  <!--// Main Section \\-->
-		  <div class="tax-main-section side-services-full">
-			<div class="container">
-			  <div class="row">
-				<div class="col-md-6">
-					<div class="tax-about-img  wow fadeInLeftBig " data-wow-offset="500"  data-wow-iteration="1" data-wow-duration="900ms">
-						<div class="tax-border-img">
-							<div class="border-bg" style="background-image: url('../images/spontaneous01.jpg')">  </div>
-						</div>
-					</div></div>
-				<div class="col-md-6">
-				  <div class="tax-table">
-					<div class="tax-table-cell">
-					  <div class="side-services wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<h3 class="section-title">Spontaneous denunciation</h3>
-                        <p>Taxpayers (natural persons (individuals) and legal entities) who have not declared all their income or assets in Switzerland and abroad may voluntarily regularize their situation with the tax authorities making a spontaneous denunciation that is not punishable by law, provided that the tax authority has not yet become aware of its income and assets, the tax authority bills the unpaid tax difference with default interest.  </p>  <br>
-                        <p>For spontaneous denunciation, the taxpayer must cooperate fully with the tax authorities and provide all necessary documents to determine the taxable items for the last ten years. </p>
-						<a href="spontaneous-denunciation.php" class="simple-btn">Read More</a>
-					  </div>
-					</div>
-				  </div>
-				</div>
-			  </div>
-			</div>
-		  </div>
-		  <!--// Main Section \\-->
-		  
-		  <!--// Main Section \\-->
-		  <div class="tax-main-section side-services2-full">
-			<div class="container">
-			  <div class="row">
-				<div class="col-md-6">
-				  <div class="tax-table">
-					<div class="tax-table-cell">
-					  <div class="side-services wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<h3 class="section-title">The recovery of the withholding tax</h3>
-					    <p>The withholding tax is a 35% tax levied on the income of movable assets such as: dividends, interest on capital, profit shares, lottery winnings ... to pay the federal government contribution. This tax is not definitive and may be recovered in certain cases:, we will try to explain to you briefly the operation of this imposition and in which it could be recovered;</p>
-                        <ul class="list-one">
-                            <li>For Swiss residents (natural persons)</li>
-                            <li>For legal entities in Switzerland LLC, PLC....</li>
-                            <li>For natural and legal persons residing or having their registered offices abroad</li>
-                        </ul>
-						<a href="the-recovery-of-the-withholding-tax.php" class="simple-btn">Read More</a>
-					  </div>
-					</div>
-				  </div>
-				</div>
-				<div class="col-md-6">
-					<div class="tax-about-img wow fadeInRightBig " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms">
-						<div class="tax-border-img-two float-right">
-							<div class="border-bg-two" style="background-image: url('../images/tax-recovery.jpg')" >  </div>
-						</div>
-					</div>
-				</div>
-			  </div>
-			</div>
-		  </div>
-		  <!--// Main Section \\-->
-		  <!-- End We care about our Clients  -->
-		</div>
 		<!-- Start readuce taxes  -->
-		<div class="readuce-taxes">
+		<section class="section">
 			<div class="container">
-				<div class=" readuce-taxes-title text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="600ms">
-                      <h3 class="redcue-title text-uppercase">REDUCE YOUR TAX</h3>
-                      <p class="readuce-taxes-pragh text-center wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="700ms">
+				<div class="text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="600ms">
+                      <h3 class="section__title text-uppercase">Who we are?</h3>
+                      <p class="section__paragraph text-center wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="700ms">
+                      Tax Manager is a company active in the administrative service and tax consultancy. We mainly prepare tax returns for natural persons (individuals) and legal entities, as well as other tasks related to investment and business management. Our experience and knowledge of Swiss tax laws make us one of the best expertise on the Swiss market, our study is often solicited by several Swiss schools and universities in order to share with them our knowledge and experience in taxation; we have already contributed to the training of several executives who currently hold very important positions in various companies.
+                      </p>
+				</div>
+        <div class="section__buttons">
+          <a href="#" class="section__buttons__white">Learn More</a>
+          <a href="#" class="section__buttons__gradient" style="">Watch Video</a>
+        </div>
+		
+		
+			</div>
+</section>
+  <!-- BEGIN We care about ourr clients -->
+		<section class="section">
+			<div class="container">
+				<div class="text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="600ms">
+                      <h3 class="section__title text-uppercase">we care about our clients</h3>
+                      <p class="section__paragraph text-center wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="700ms">
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id magna laoreet dictum vitae tincidunt sit risus libero semper. 
+                      </p>
+				</div>
+		
+
+        <div class="row">
+          <div class="col-sm">
+            <div class="section__article">
+              <h2>
+              Taxation According
+To The Family Situation
+              </h2>
+                <p>
+                  The taxation of natural persons (individuals) depends on their family situation and not on the exercise of a gainful activity, whether you are employed or independent, your taxation will depend on several elements outlined above are considered to determine your family situation;
+                  <br />
+                  <br />
+                  The income and wealth of spouses or registered partners are added together regardless of the plan mentioned. Only one tax return is considered in the following cases:
+                </p>
+                <a class="section__link" href="#">
+                  Read more
+                <i class="fa fa-angle-double-right"></i>
+                </a>
+              </div>
+          </div>
+          <div class="col-sm">
+            <div class="section__article">
+              <h2>
+              Sovereignty And Tax
+Competition Between Cantons
+                </h2>
+                <p>
+                Before trying to explain the competition on taxing legal entities, we are first going to explain the functioning of Swiss taxation. The Swiss political system is that of a federal state which has established the separation of powers and has constituted three authorities, the federal, cantonal and communal authorities.
+                  <br />
+                  <br />
+                  The Swiss tax system is characterized by the sovereignty of the cantons which define according to their needs the tax rate for natural persons (individuals) and legal entities, this evidently create a certain competition between cantons that try to attract more and more companies by their tax system, which increase production, consumption and reduce unemployment in their turn.
+                </p>
+                <a class="section__link" href="#">
+                  Read more
+                <i class="fa fa-angle-double-right"></i>
+                </a>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm">
+            <div class="section__article">
+              <h2>
+              Spontaneous Denunciation
+                  </h2>
+                <p>
+                Taxpayers (natural persons (individuals) and legal entities) who have not declared all their income or assets in Switzerland and abroad may voluntarily regularize their situation with the tax authorities making a spontaneous denunciation that is not punishable by law, provided that the tax authority has not yet become aware of its income and assets, the tax authority bills the unpaid tax difference with default interest.
+                  <br />
+                  <br />
+                  For spontaneous denunciation, the taxpayer must cooperate fully with the tax authorities and provide all necessary documents to determine the taxable items for the last ten years.
+                </p>
+                <a class="section__link" href="#">
+                  Read more
+                <i class="fa fa-angle-double-right"></i>
+                </a>
+              </div>
+          </div>
+          <div class="col-sm">
+            <div class="section__article">
+                <h2>
+                The Recovery Of The Withholding Tax
+                </h2>
+                <p>
+                The withholding tax is a 35% tax levied on the income of movable assets such as: dividends, interest on capital, profit shares, lottery winnings ... to pay the federal government contribution. This tax is not definitive and may be recovered in certain cases:, we will try to explain to you briefly the operation of this imposition and in which it could be recovered;
+                  <br />
+                  <br />
+                  <ul>
+                    <li>
+                      For Swiss residents (natural persons)
+                    </li>
+                    <li>
+                    For legal entities in Switzerland LLC, PLC....
+                    </li>
+                    <li>
+                    For natural and legal persons residing or having their registered offices abroad
+                    </li>
+                </p>
+                <a class="section__link" href="#">
+                  Read more
+                <i class="fa fa-angle-double-right"></i>
+                </a>
+                </div>
+          </div>
+        </div>
+		
+			</div>
+</section>
+  <!-- END We care about ourr clients -->
+  <!-- BEGIN Reduce our tax -->
+
+		<section class="section">
+			<div class="container">
+				<div class="text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="600ms">
+                      <h3 class="section__title text-uppercase">Reduce your tax</h3>
+                      <p class="section__paragraph text-center wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="700ms">
                       It is obvious that each taxpayer considers that he pays more tax than necessary, nevertheless the Swiss tax system grants some quite legal choices allowing to reduce the tax burden, we will therefore try to give you some solutions which can be more or less adapted to your situation;
                       </p>
 				</div>
-				<div class="row">
-					<div class="col-xs-6 mx-auto">
-						<div class="reduce-box text-center wow bounceInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">  
-								<img class="mx-auto d-block rounded-circle" src="../images/2rd_piliar.jpg" alt="2rd-piliar">
-								<a href="contribution-to-the-2nd-pillar.php" target="_blank" class="text ">CONTRIBUTION TO THE 2ND PILLAR</a>
-						</div>					
-					</div>
-					<div class="col-xs-6 mx-auto">
-						<div class="reduce-box text-center wow bounceInUp"  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle" src="../images/3rd_piliar.jpg" alt="3rd-piliar">
-								<a href="contribution-to-the-3rd-pillar.php" target="_blank" class="text ">CONTRIBUTION TO THE 3RD PILLAR</a>
-						</div>					
-					</div>
-					<div class="col-xs-6 mx-auto">
-						<div class="reduce-box text-center wow bounceInUp "  data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle" src="../images/choice.jpg" alt="Fiduciary-Geneva">
-								<a href="choice-of-canton-and-municipality.php" target="_blank" class="text ">CHOICE OF CANTON AND MUNICIPALITY</a>
-						</div>					
-					</div>
-					<div class="col-xs-6 mx-auto">
-						<div class="reduce-box text-center  wow bounceInUp"   data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms" >
-								<img class="mx-auto d-block rounded-circle" src="../images/valuing.avif" alt="Tax-Return">
-								<a href="deduction-of-donations.php" target="_blank" class="text ">DEDUCTION OF DONATIONS</a>
-						</div>					
-					</div>
-					<div class="col-xs-6 mx-auto">
-						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle" src="../images/donation.jpg" alt="donation">
-								<a href="deduction-of-medical-expenses.php" target="_blank" class="text ">DEDUCTION OF MEDICAL EXPENSES</a>
-						</div>					
-					</div>
-					<div class="col-xs-6 mx-auto"> 
-						<div class="reduce-box text-center wow bounceInUp"    data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="900ms" data-wow-delay="350ms">
-								<img class="mx-auto d-block rounded-circle" src="../images/medical.jpg" alt="medical">
-								<a href="valuing-dependents.php" target="_blank" class="text ">VALUING DEPENDENTS</a>
-						</div>					
-					</div>
+        
+
+          <div class="row section__row">
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+
+          </div>
+          <div class="row section__row">
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+            <div class="col-md">
+              <img src="../images/blog/second-pillar.png" alt="Contribution 
+  to the 2nd pillar"/>
+              <h2>
+              Contribution 
+  to the 2nd pillar
+              </h2>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti sed consequat viverra semper.
+              </p>
+              <a class="section__link" href="#">
+                    Read more
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+
+            </div>
+
+          </div>
+        </div>
+    </section>
+    <!-- END Reduce our tax -->
+
+
+  
+
+
+		<!-- <div class="readuce-taxes">
+			<div class="container">
+				<div class=" readuce-taxes-title text-center wow slideInUp " data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="600ms">
+                      <h3 class="redcue-title text-uppercase">Who we are?</h3>
+                      <p class="readuce-taxes-pragh text-center wow zoomIn" data-wow-offset="300"  data-wow-iteration="1" data-wow-duration="700ms">
+                      Tax Manager is a company active in the administrative service and tax consultancy. We mainly prepare tax returns for natural persons (individuals) and legal entities, as well as other tasks related to investment and business management. Our experience and knowledge of Swiss tax laws make us one of the best expertise on the Swiss market, our study is often solicited by several Swiss schools and universities in order to share with them our knowledge and experience in taxation; we have already contributed to the training of several executives who currently hold very important positions in various companies.
+                      </p>
 				</div>
+		
+		
 			</div>
-		</div>
+		</div> -->
 		<!-- End readuce taxes  -->
 		<!--// Main Content \\-->
 
