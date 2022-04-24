@@ -94,7 +94,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <div class="banner-text">
                         <h1><font color="black"><font size="6">Swiss Fiduciary</font></font></h1>
                         <p><font color="black">Tax Manager is committed to making your<br>life easier</font></p>
-                        <a href="contact-us.php"><img src="../images/fiduciaire-yverdon.webp" alt="fiduciary-yverdon"><font color="black"> Appointment</font></a>
+                        <a href="contact-us.php"><img src="../images/fiduciaire-yverdon.png" alt="fiduciary-yverdon"><font color="black"> Appointment</font></a>
                         <!-- <a href="#">Our Prices</a> -->
                       </div>
                     </div>

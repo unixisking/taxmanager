@@ -65,7 +65,7 @@
 									  <div class="tax-table-cell">
 										<div class="nav-mega">
 										  <h5>Rendez-vous</h5>
-										  <a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.webp
+										  <a href="contact-us.php"><img class="loading" data-src="images/fiduciaire-yverdon.png
 																			 " width=90 height=89> </a>
 										</div>
 									  </div>

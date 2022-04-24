@@ -1090,7 +1090,7 @@ input[type="submit"] { cursor: pointer; }
 }
 .newsletter-form {
     float: left;
-    width: 70%;
+    /* width: 70%; */
     position: relative;
 }
 .newsletter-form input[type="email"] { border-color: #eaeaea }

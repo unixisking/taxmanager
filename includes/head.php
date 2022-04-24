@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.webp" />	
+<link rel="icon" type="image/png" href="images/fiduciaire-yverdon.png" />	
 
 
 
@@ -112,6 +112,8 @@
   .tax-banner-slider { display: none; }
 .tax-banner-slider.slick-initialized { display: block; }
 
+
+
 </style>
 </head>
 <script>
@@ -133,3 +135,199 @@ $(window).on('load', function() {
 	})(window, document, "script", "dataLayer", "GTM-5LF7LR5");
 });
 </script>-->
+
+<style>
+h1,h2,h3,h4,h5 h6 {
+    color: #363636;
+    /* background: -webkit-linear-gradient(#eee, #333); */
+    background: rgb(41,41,41);
+    background: -webkit-linear-gradient(90deg, rgba(41,41,41,1) 0%, rgba(102,102,102,1) 46%, rgba(40,40,40,1) 100%);
+    background: linear-gradient(90deg, rgba(41,41,41,1) 0%, rgba(102,102,102,1) 46%, rgba(40,40,40,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    /* -webkit-text-fill-color: transparent; */
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    line-height: 1.5;
+	
+    font-size: 16px;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p {
+    color: #1E222B;
+}
+.simple-btn:hover {
+    background-color: transparent;
+    border: 3px solid #E0C56E;  
+    color: #444; 
+}
+
+
+
+/* General Section */
+.section {
+    padding: 50px 0px 30px;
+    background: #FFF;
+} 
+.section .section__title {
+    /* color: #555; */
+    margin: -45px 0px 10px;
+    font-weight: 500;
+    font-size: 38px;
+    padding: 30px 5px;
+}
+
+.section .section__title:after{
+    content: "";
+    display: block;
+    width: 150px;
+    height: 3px;
+    background-color: #555;
+    margin: auto;
+}
+
+.section .section__paragraph {
+    width: 800px;
+    text-align: justify;
+    margin: auto auto 60px;
+}
+@media (max-width: 767px) {
+    .section .section__paragraph {
+        width: 350px;
+        font-size: 15px;
+        text-align: justify;
+        margin: auto auto 60px;
+    }
+}
+
+.section__buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 420px;
+
+    margin: auto;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .section__buttons {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .section__buttons > * + * {
+        margin-top: 20px;
+    }
+}
+
+
+.section .reduce-box {
+    margin-bottom: 20px;
+}
+.section .reduce-box  img{
+    border: 4px solid #FCE586;
+    margin-bottom: 10px;
+}
+
+.section .reduce-box .text {
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.section .reduce-box .text::after{
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: #E0C56E;
+    margin: 5px auto; 
+    transition: .5s ease-in-out;
+}
+.section .reduce-box .text:hover::after {
+    width: 150px;
+}
+
+.section__buttons__gradient {
+    background: linear-gradient(91.88deg, #E0C56E 0%, #FFF0BF 56.25%, #E0C56E 100%);
+    display: inline-block;
+    width: 200px;
+    /* height: 45px; */
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative; 
+    border: 2px solid #E0C56E;
+    /* border-width: 3px;
+    border-image: linear-gradient(91.88deg, #E0C56E 0%, #FFE388 56.25%, #E0C56E 100%); */
+    color: #1E222B;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out; 
+}
+
+.section__buttons__gradient:hover {
+    background: transparent;
+    border: 2px solid #E0C56E;  
+    color: #444; 
+}
+
+.section__buttons__white {
+    /* background: #fff; */
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #1E222B;
+    position: relative; 
+    font-weight: bold;
+    transition: all 0.4s ease-in-out; 
+
+    background: rgb(41,41,41);
+    background: -webkit-linear-gradient(90deg, rgba(41,41,41,1) 0%, rgba(102,102,102,1) 46%, rgba(40,40,40,1) 100%);
+    background: linear-gradient(90deg, rgba(41,41,41,1) 0%, rgba(102,102,102,1) 46%, rgba(40,40,40,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.section__link {
+    position: relative;
+}
+
+.section__link * + * {
+    margin-left: 3px;
+}
+
+.section__link i {
+    position: absolute;
+    top: 4px;
+    right: -20px;
+}
+
+.section__article {
+    margin-top: 80px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #838383;
+}
+
+.section__row {
+    margin-top: 80px;
+}
+
+/* End General Section */
+
+/* Start readuce Taxes  */
+.readuce-taxes{
+    padding: 20px 0px 30px;
+}	
+.newsletter-form {
+    
+    width: 90%;
+    
+}
+.newsletter-form input {
+	height: 40px;
+}
+</style>
