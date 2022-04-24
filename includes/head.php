@@ -330,4 +330,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p {
 .newsletter-form input {
 	height: 40px;
 }
+
+.tax-main-section .sidebar {
+    margin-left: -55px;
+}
 </style>
